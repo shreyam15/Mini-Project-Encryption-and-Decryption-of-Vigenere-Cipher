@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=key
+comment0.target=VigenereCipher(int[])
+comment0.text=\n\ Constructor\ to\ build\ a\ new\ Ceaser\ Cipher.\n\ @param\ array\ of\ key\ used\ to\ encrypt\ and\ decrypt\n
+comment1.params=input
+comment1.target=java.lang.String\ encrypt(java.lang.String)
+comment1.text=\n\ method\ to\ encrypt\ the\ String\ of\ message\ using\ Ceasar\ Cipher\ class.\n\ @param\ String\ input\ from\ a\ file\ or\ text.\n\ @returns\ the\ enctypted\ message\n
+comment2.params=input
+comment2.target=java.lang.String\ decrypt(java.lang.String)
+comment2.text=\n\ method\ to\ decrypt\ the\ String\ of\ message\ using\ Ceaser\ Cipher\ class.\n\ @param\ String\ of\ message\ from\ a\ file\ or\ text.\n\ @returns\ the\ decrypted\ message\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
